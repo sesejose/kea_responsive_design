@@ -367,6 +367,7 @@ header button {
 .header_text {
   width: 30vw;
   min-width: 300px;
+  padding: var(--pb);
 }
 
 .header_graphics {

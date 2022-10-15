@@ -379,6 +379,10 @@ header button {
   background-color: var(--color-30b);
   margin-bottom: 1rem;
   padding: 3rem;
+  background-image: url(images/header_1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .header_graphics object {
   width: 100%;
@@ -430,6 +434,10 @@ header button {
   height: 160px;
   border-radius: var(--border-radius-top-10);
   margin: var(--mb);
+  background-image: url(images/card_2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .advantages_card_text {
   display: flex;
@@ -485,6 +493,10 @@ header button {
   margin: var(--m-auto);
   background-color: var(--color-30b);
   border-radius: 300px;
+  background-image: url(images/header_2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* highlight sections */
@@ -544,6 +556,10 @@ header button {
   height: 180px;
   border-radius: var(--border-radius-100);
   margin: var(--m-auto);
+  background-image: url(images/team_1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .team_text {
   display: flex;
